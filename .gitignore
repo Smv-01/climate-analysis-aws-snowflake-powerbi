@@ -1,0 +1,19 @@
+# Secrets and credentials - never commit these
+.env
+*.pem
+*.key
+*.p8
+.aws/
+credentials
+config/secrets.*
+
+# Power BI temp/cache files
+*.pbix.tmp
+.pbi/
+localSettings.json
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+__pycache__/
+.vscode/
