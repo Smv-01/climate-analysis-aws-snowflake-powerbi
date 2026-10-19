@@ -58,7 +58,7 @@ The report has three pages, each showing the average of one measure by **year, s
 ![Rainfall Analysis](01_rainfall_analysis.png)
 
 ### Temperature Analysis
-![Temperature Analysis](powerbi/screenshots/02_temperature_analysis.png)
+![Temperature Analysis](02_temperature_analysis.png)
 
 ### Humidity Analysis
 ![Humidity Analysis](powerbi/screenshots/03_humidity_analysis.png)
