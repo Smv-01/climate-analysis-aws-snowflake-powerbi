@@ -61,7 +61,7 @@ The report has three pages, each showing the average of one measure by **year, s
 ![Temperature Analysis](02_temperature_analysis.png)
 
 ### Humidity Analysis
-![Humidity Analysis](powerbi/screenshots/03_humidity_analysis.png)
+![Humidity Analysis](03_humidity_analysis.png)
 
 ## Key Insights
 
