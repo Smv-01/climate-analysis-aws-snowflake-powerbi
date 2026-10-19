@@ -55,7 +55,7 @@ Columns: Year, Location, Area, Rainfall, Temperature, Soil type, Irrigation, yei
 The report has three pages, each showing the average of one measure by **year, season, crop and location**.
 
 ### Rainfall Analysis
-![Rainfall Analysis](powerbi/screenshots/01_rainfall_analysis.png)
+![Rainfall Analysis](01_rainfall_analysis.png)
 
 ### Temperature Analysis
 ![Temperature Analysis](powerbi/screenshots/02_temperature_analysis.png)
